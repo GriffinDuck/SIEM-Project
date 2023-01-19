@@ -1,4 +1,4 @@
-<h1>JWipe - SIEM Lab</h1>
+<h1>GriffinDuck - SIEM Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
