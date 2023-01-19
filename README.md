@@ -1,6 +1,6 @@
 <h1>GriffinDuck - SIEM Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://www.youtube.com/channel/UCf1LiY3RmFV6ULO45QrPFww)
 
 <h2>Description</h2>
 tbd
